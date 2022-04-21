@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.103.28:8081/repository/flipkart-releases/</url>
+	      <name>Audi Austin Texas Releases Nexus Repository</name>
+	      <url>http://54.210.215.237:8081/repository/audita-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.103.28:8081/repository/flipkart-snapshot/</url>
+	      <name>Audi Austin Texas Snapshot Nexus Repository </name>
+	      <url>http://54.210.215.237:8081/repository/auditx-snapshop/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
